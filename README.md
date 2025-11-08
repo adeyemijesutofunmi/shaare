@@ -53,3 +53,10 @@ This solution bridges the gap between customers who need quick cleaning help and
 
 ### 🚀 Vision
 Shaare aims to make cleaning services as easy to access as ordering food online — trusted, transparent, and just a tap away.
+
+### 🎯 Quick Links
+- [Download App](#) (Coming Soon)
+- [For Cleaners](#) (Coming Soon)
+- [Support](#) (Coming Soon)
+
+![Shaare Logo](assets/logo.png)
